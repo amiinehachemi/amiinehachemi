@@ -1,4 +1,4 @@
-Mohammed Amine Hachemi 👨‍💻
+Amine Hachemi 👨‍💻
 A Technical Lead by day ☼ and an AI Integration Enthusiast by night ☾
 Tech Lead at IntelSwift;
 Specializing in AI-powered backend solutions, scalable architectures, and cloud computing.
