@@ -1,16 +1,20 @@
-Amine Hachemi 👨‍💻
-A Technical Lead by day ☼ and an AI Integration Enthusiast by night ☾
-Tech Lead at IntelSwift;
-Specializing in AI-powered backend solutions, scalable architectures, and cloud computing.
+👨‍💻 Amine Hachemi
 
-⚙️ I use daily:
+Technical Lead at IntelSwift | AI Integration Enthusiast
+
+By day, I lead technical projects and guide teams toward building efficient, scalable systems. By night, I explore the creative side of artificial intelligence and automation. My focus is on designing AI-driven backend solutions, cloud architectures, and systems that scale gracefully.
+
+⚙️ What I work with
+
 Languages: Python, JavaScript
 Frameworks: Node.js, Express.js, React.js, Flask
 AI Tools: LangChain, OpenAI, Gemini, DeepL, Llama models
 
+🌍 Areas of Interest
 
-🌍 I'm mostly active within the AI, Backend Development, Microservices , messaging queues
-💬 Ping me about AI integrations, system design, scalable solutions and real-time communication.
+I’m passionate about AI integration, microservices, real-time communication, and scalable system design.
 
-📩 Contact: Amiinehachemi@gmail.com
-🔗 LinkedIn https://www.linkedin.com/in/amiinehachemi/
+
+I enjoy discussing how AI can make systems smarter and teams more efficient.
+📩 Email: Amiinehachemi@gmail.com
+🔗 LinkedIn: linkedin.com/in/amiinehachemi
