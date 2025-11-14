@@ -18,3 +18,5 @@ I’m passionate about AI integration, microservices, real-time communication, a
 I enjoy discussing how AI can make systems smarter and teams more efficient.
 📩 Email: Amiinehachemi@gmail.com
 🔗 LinkedIn: linkedin.com/in/amiinehachemi
+
+Funny note for the observant: you might not spot much activity here because my corporate GitHub gets all the action.
