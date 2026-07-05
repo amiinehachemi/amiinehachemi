@@ -1,3 +1,5 @@
+Most of my engineering activity happens on my corporate GitHub, where the real action is.
+
 I’m a Tech Lead Software Engineer at Intelswift, building backend, cloud, on-prem AI, and AI infrastructure for a B2B customer service automation platform.
 
 My work sits at the intersection of enterprise data, real-time communication, and production AI. I help design systems that connect business knowledge with channels like WhatsApp, Telegram, Messenger, Instagram, Viber, web widgets, and SIP-based telephony, because apparently customers expect support everywhere now.
